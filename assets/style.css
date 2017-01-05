@@ -11,6 +11,16 @@ h1 {
 	font-size: 48px;
 }
 
+#jerk-input {
+	width: 200px;
+	height: 35px;
+	margin: 5px 0;
+}
+
+label[for="jerk-input"] {
+	font-size: 24px;
+}
+
 .btn-info {
 	margin: 10px;
 }
